@@ -31,7 +31,7 @@ You may also see any lint errors in the console.
    - container
      - Page Container (Page Container Folder)
    - icon <-- all Icon storage
-   - Pages <--  All avaliable page (need redirect to container)
+   - pages <--  All avaliable page (need redirect to container)
    - scss <-- all scss/css storage
    - index.js <-- main file of the project (starting point)
 
